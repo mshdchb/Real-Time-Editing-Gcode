@@ -1,5 +1,5 @@
 # Real-Time-Editing-Gcode
-このソフトはProcessing上で動作します。初めに以下より、ご自身の環境にあうバージョンをダウンロードして下さい。
+このソフトはProcessing上で動作します。初めに以下より、ご自身の環境にあうものをダウンロードして下さい。
 
 https://processing.org/download/
 
