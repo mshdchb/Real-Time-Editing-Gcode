@@ -1,8 +1,12 @@
 # Real-Time-Editing-Gcode
-".gcode"形式のファイルを、このソフトを介し3Dprinterに送ることで、E値やF値を変えながらの出力が可能になります。
+このソフトはProcessing上で動作します。初めに以下より、ご自身の環境にあうバージョンをダウンロードして下さい。
 
-"Rework"は、造形物の精度の調整や、新素材の最適値を見つめるためのプログラムです。
+https://processing.org/download/
 
-"Unevenness"は、造形物のサーフェスに凹凸をつけるためのプログラムです。
+.gcode 形式のファイルを、このソフトを介し3Dprinterに送ることで、E値やF値を変えながらの出力が可能になります。
 
-詳しくはこちらをご覧ください。"fabbleのURL"
+"Rework"は、造形物の精度の調整や、素材の出力時の最適値を見つけるためのprogramです。
+
+"Unevenness"は、造形物のサーフェスに凹凸をつけられるprogramです。
+
+使い方はこちらをご覧下さい。http://fabble.cc/masahide/realxtimexeditingxgcodexxxxx
