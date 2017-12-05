@@ -7,7 +7,7 @@ https://processing.org/download/
 
 <br>
 
-.gcode 形式のファイルを、ソフトを介し3D printerに送ることで、E値やF値を変えながらの出力が可能になります。
+G-Codeをこのソフトを介し3D printerに送ることで、E値やF値を変えながらの出力が可能になります。
 
 "Rework"は、造形物の精度の調整や、素材の出力時の最適値を見つけるためのprogramです。
 
