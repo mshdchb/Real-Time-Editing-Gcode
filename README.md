@@ -3,9 +3,11 @@
 
 https://processing.org/download/
 
+ソフトウェアはG-Codeで動く、Reprap系の3D printerに対応しています。
+
 <br>
 
-.gcode 形式のファイルを、このソフトを介し3Dprinterに送ることで、E値やF値を変えながらの出力が可能になります。
+.gcode 形式のファイルを、このソフトを介し3D printerに送ることで、E値やF値を変えながらの出力が可能になります。
 
 "Rework"は、造形物の精度の調整や、素材の出力時の最適値を見つけるためのprogramです。
 
