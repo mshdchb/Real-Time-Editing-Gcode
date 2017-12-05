@@ -1,9 +1,9 @@
 # Real-Time-Editing-Gcode
-このソフトウェアはProcessing上で動作します。初めに以下より、ご自身の環境にあうバージョンをダウンロードして下さい。
+このソフトウェアはProcessing上で動作します。初めに以下より、ご自身の環境にあうものをダウンロードして下さい。
 
 https://processing.org/download/
 
-また、ソフトはG-Codeで動く、Reprap系の3D printerのみ対応しています。
+また、ソフトはG-Codeで動くReprap系の3D printerのみ対応しています。
 
 <br>
 
